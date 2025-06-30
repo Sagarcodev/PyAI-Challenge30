@@ -35,4 +35,8 @@ Each project is stored in its own folder (e.g., `Day1_BasicCalculator`), contain
 - `day1.py`: the source code
 - `README.md`: project-specific overview
   
+📬 Connect With Me
+💻 GitHub: Sagarcodev
+📧 Email: rockysingh3525@.com
+
 
